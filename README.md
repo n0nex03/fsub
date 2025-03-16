@@ -23,5 +23,9 @@ To get started with Fsub, you'll need Python installed on your system. Follow th
    git clone https://github.com/yourusername/fsub.git
    cd fsub
 ## example
-```bash
-sudo python3 fsub.py -d example.com -o example.txt
+   ```bash
+   sudo python3 fsub.py -d example.com -o example.txt
+```
+<img src='Screenshot From 2025-03-16 02-48-57.png' alt="photo"> 
+
+## Donate
