@@ -30,5 +30,5 @@ To get started with Fsub, you'll need Python installed on your system. Follow th
 
 ## Donate
 
-<img src='https://github.com/losesec/fsub/blob/c09bdc151d513be80908838460987e28054b24dd/kofi1.png' alt="donate" size=150> 
+<img src='https://github.com/losesec/fsub/blob/c09bdc151d513be80908838460987e28054b24dd/kofi1.png' alt="donate"> 
 
