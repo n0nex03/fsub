@@ -21,7 +21,7 @@ class colors:
     MAGENTA = Fore.MAGENTA
     RESET = Style.RESET_ALL
 
-version = 0.2
+version = 0.3
 
 def parse_args():
     import argparse
