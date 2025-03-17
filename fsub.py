@@ -79,7 +79,7 @@ def main():
         sys.exit(1)
 
     for value in req.json():
-        subdomains.append(value["name_value"])
+        subdomains.extend(value["name_value"].split("\n"))
     
     print(f"\n{colors.GREEN}[*] *********** TARGET: {target} ************\n")
 
