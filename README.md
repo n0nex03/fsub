@@ -26,7 +26,7 @@ To get started with Fsub, you'll need Python installed on your system. Follow th
    ```bash
    sudo python3 fsub.py -d example.com -o example.txt
 ```
-<img src='Screenshot From 2025-03-16 02-48-57.png' alt="photo"> 
+<img src='Screenshot From 2025-03-17 06-13-44' alt="photo"> 
 
 ## Donate
 
