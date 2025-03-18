@@ -86,7 +86,7 @@ def main():
     subs = sorted(set(subdomains))
 
     for s in subs:
-        print(f"{colors.YELLOW}[*] {s}{colors.RESET}")
+        print(f"{colors.YELLOW}[*] https://{s}{colors.RESET}")
         if output:
             write_subs_to_file(s, output)
 
