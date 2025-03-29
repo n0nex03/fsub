@@ -56,7 +56,7 @@ def banner():
     logo.root()  # Ensure your logo function is correctly defined
     print(f"{Colors.CYAN}Name: Fsub")
     print(f"{Colors.WHITEY}Version: {VERSION}")
-    print(f"{Colors.WHITEY}Dev: losesec(lose_sec)")
+    print(f"{Colors.WHITEY}Dev: lose(n0nex03)")
     print(f"{Colors.PINK}[✨] Do you wanna buy me a coffee☕? > https://ko-fi.com/lose_sec")
     print("Here We Go🚀")
     time.sleep(1)
