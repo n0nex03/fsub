@@ -20,7 +20,7 @@ To get started with Fsub, you'll need Python installed on your system. Follow th
 1. Clone the repository or download the script.
 
    ```bash
-   git clone https://github.com/yourusername/fsub.git
+   git clone https://github.com/n0nex03/fsub.git
    cd fsub
 ## example
    ```bash
