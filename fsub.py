@@ -57,7 +57,7 @@ def banner():
     print(f"{Colors.CYAN}Name: Fsub")
     print(f"{Colors.WHITEY}Version: {VERSION}")
     print(f"{Colors.WHITEY}Dev: lose(n0nex03)")
-    print(f"{Colors.PINK}[✨] Do you wanna buy me a coffee☕? > https://ko-fi.com/lose_sec")
+    print(f"{Colors.PINK}[✨] Do you wanna buy me a coffee☕? > https://ko-fi.com/n0nex03")
     print("Here We Go🚀")
     time.sleep(1)
 
