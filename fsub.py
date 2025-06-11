@@ -21,7 +21,7 @@ class Colors:
     MAGENTA = Fore.MAGENTA
     RESET = Style.RESET_ALL
 
-VERSION = 0.4
+VERSION = 0.5
 
 # List of country-specific TLDs to exclude
 EXCLUDED_TLDS = {
@@ -57,8 +57,7 @@ def banner():
     print(f"{Colors.CYAN}Name: Fsub")
     print(f"{Colors.WHITEY}Version: {VERSION}")
     print(f"{Colors.WHITEY}Dev: lose(n0nex03)")
-    print(f"{Colors.PINK}[✨] Do you wanna buy me a coffee☕? > https://ko-fi.com/n0nex03")
-    print("Here We Go🚀")
+    print(f"{Colors.PINK}[✨] Do you wanna buy me a ₿itcoin? > '3Fa938teyhMwyRMGwaiaBwEkL1EJiTJAPJ'")
     time.sleep(1)
 
 def parse_url(url):
